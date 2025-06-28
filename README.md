@@ -35,3 +35,5 @@ This project was developed as part of an internship assignment at Soft-Nerve. It
 - LLM (e.g., Gemini/OpenAI)
 - RL-based search (custom)
 
+## Youtube Video
+https://youtu.be/j_IffPw53rQ
